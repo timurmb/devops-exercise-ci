@@ -20,11 +20,12 @@
     "@nodosjs/db-typeorm-extension": "^0.0.55",
     "@nodosjs/view-extension": "^0.0.55",
     "@nodosjs/webpack-extension": "^0.0.55",
-    "sql.js": "^1.5.0",
-    "pg": "^8.5.1"
+    "pg": "^8.5.1",
+    "sql.js": "^1.5.0"
   },
   "devDependencies": {
     "@nodosjs/jest-environment": "^0.0.55",
+    "babel-eslint": "^10.1.0",
     "babel-jest": "^26.3.0",
     "eslint": "^7.22.0",
     "eslint-plugin-babel": "^5.3.1",
